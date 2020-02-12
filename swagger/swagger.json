@@ -100,7 +100,7 @@
           "type": "string"
         },
         "Status": {
-          "description": "Order Status",
+          "description": "Order Status {EXAMPLE: Received,Not Recieved}",
           "type": "string"
         },
         "Total": {
