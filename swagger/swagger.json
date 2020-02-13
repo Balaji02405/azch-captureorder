@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Capture Order API",
+    "title": "Capture Order PuneAPI",
     "description": "Capture Order",
     "version": "1.0.0"
   },
