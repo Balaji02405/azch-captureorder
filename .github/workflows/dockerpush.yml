@@ -51,7 +51,7 @@ jobs:
         run: docker build . --file Dockerfile --tag image
 
       - name: Log into registry
-        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login --username balaji024 --password-stdin
+        run: docker login --username balaji024 --password Juventus@cr7
 
       - name: Push image
         run: |
